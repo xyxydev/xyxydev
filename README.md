@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **MyPortfolio**
 
-- 🌱 I’m currently learning **PHP, MYSQL**
+- 🌱 I’m currently learning **React Native, MVC ASP.NET C#**
 
-- 📫 How to reach me **superkamehxyal21@gmail.com**
+- 📫 How to reach me **xymer.i.serna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
