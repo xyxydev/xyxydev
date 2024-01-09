@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, MVC ASP.NET C#**
 
-- 📫 How to reach me **xymer.i.serna@gmail.com**
+- 📫 How to reach me **xymer.serna.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
