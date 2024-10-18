@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serna0421&label=Profile%20views&color=0e75b6&style=flat" alt="serna0421" /> </p>
 
-- 🔭 I’m currently working on **MyPortfolio**
+- 🔭 I’m currently working at **Alliance Software Inc**
 
-- 🌱 I’m currently learning **React Native, MVC ASP.NET C#**
+- 🌱 I’m currently learning **Angular, AzureDevOps and CMS**
 
 - 📫 How to reach me **xymer.serna.dev@gmail.com**
 
